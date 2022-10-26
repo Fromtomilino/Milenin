@@ -82,7 +82,7 @@ grid-template-areas: "header"
 	
 
 }
-@media(max-width:414px){
+@media(max-width:375px){
 	.header__list{
 		display:none;
 		
@@ -96,11 +96,11 @@ grid-template-areas: "header"
 		display:none;
 	}
 .content{
-/* 	margin:0 100px 0 100px; */
+	margin:0 100px 0 100px;
    
 }
 .gallery__title{
-/* 	text-align: center; */
+	text-align: center;
 }
 
 }
