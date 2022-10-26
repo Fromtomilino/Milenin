@@ -100,7 +100,7 @@ grid-template-areas: "header"
    
 }
 .gallery__title{
-	text-align: center;
+/* 	text-align: center; */
 }
 
 }
