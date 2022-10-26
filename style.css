@@ -95,8 +95,14 @@ grid-template-areas: "header"
 	.sidebar {
 		display:none;
 	}
+.content{
+	margin:0 100px 0 100px;
+   
+}
+.gallery__title{
+	text-align: center;
+}
 
-	
 }
 .sidebar {
 	
